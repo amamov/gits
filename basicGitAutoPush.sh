@@ -17,7 +17,6 @@ then
     read message
     if [ $message != "" ]
     then
-        echo "wow fuck"
         git commit -m $message
     else
         git commit -m "commit"
