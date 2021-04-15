@@ -1,0 +1,5 @@
+# Auto detect text files and perform LF normalization
+* text=auto
+
+# github에 통계에서 *.ipynb 을 제외한다.
+*.ipynb linguist-vendored
