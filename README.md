@@ -15,7 +15,7 @@
 
 <br>
 
-# Git 설치하기
+# Git 설치
 
 ## Git install (Window)
 
